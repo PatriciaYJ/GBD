@@ -316,8 +316,6 @@ This project is provided as-is for research and educational purposes.
 ## 🙏 Acknowledgments
 
 - Data source: Global Burden of Disease Study
-- Analysis methods: Joinpoint regression, AAPC calculation
-- Visualization: Matplotlib, Pandas
 
 ## 📚 References
 
