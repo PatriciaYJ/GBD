@@ -75,8 +75,8 @@ pip install pandas numpy matplotlib openpyxl scikit-learn scipy geopandas
 Or create a `requirements.txt` file:
 
 ```txt
-pandas>=1.3.0
-numpy>=1.21.0
+pandas>=2.2.3
+numpy>=2.0.2
 matplotlib>=3.4.0
 openpyxl>=3.0.0
 scikit-learn>=0.24.0
