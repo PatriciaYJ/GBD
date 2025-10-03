@@ -35,7 +35,6 @@ The analysis generates three main figures:
 - **High-Quality Outputs**: Generates publication-ready figures (PNG, PDF, TIFF formats)
 - **Data Tables**: Exports statistical results to CSV and Excel formats
 - **Customizable**: Easy to modify parameters and styling
-- **Error Handling**: Robust error checking and user-friendly messages
 
 ## 📁 Project Structure
 
@@ -312,7 +311,6 @@ This project is provided as-is for research and educational purposes.
 ## 👤 Author
 
 **PatriciaYJ**
-- Created: 2025-10-02
 - Location: /Users/patricia-yj/Desktop/GBD
 
 ## 🙏 Acknowledgments
